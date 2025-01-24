@@ -1,10 +1,9 @@
 # Analysis-of-E-commerce-Repurchase-Rate-Improvement
-- Analysis of E-commerce Customer Churn to Develop Strategies for Improving Repurchase Rate (Personal Project)
-- 이커머스 고객 이탈 원인 분석을 통한 재구매율 개선안 도출 (개인 프로젝트)  
+- Analysis of E-commerce Customer Churn Causes and Derivation of Repurchase Rate Improvement Plans (Personal Project)
+- 이커머스 고객 이탈 원인 분석 및 재구매율 개선안 도출 (개인 프로젝트) / 2024.09~11   
 
 
-
-
+ 
 
 
 <br>
